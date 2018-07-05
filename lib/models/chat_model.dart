@@ -18,7 +18,7 @@ List<ChatModel> dummyData = [
   new ChatModel(
     name: "George L Drake",
     message: "Hello world!",
-    time: "30:43",
+    time: "11:43",
     avatarURL: "https://www.fakepersongenerator.com/Face/female/female20161025040268646.jpg"
   ),
   new ChatModel(
